@@ -1,0 +1,14 @@
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.AssemblyInfo.cs
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\bin\Debug\net6.0\Cafe.exe
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\bin\Debug\net6.0\Cafe.deps.json
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\bin\Debug\net6.0\Cafe.runtimeconfig.json
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\bin\Debug\net6.0\Cafe.dll
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\bin\Debug\net6.0\Cafe.pdb
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.dll
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\refint\Cafe.dll
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.pdb
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\Cafe.genruntimeconfig.cache
+C:\Users\SonicXTails\Desktop\Cafe\Cafe\Cafe\obj\Debug\net6.0\ref\Cafe.dll
