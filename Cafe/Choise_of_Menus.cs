@@ -24,15 +24,15 @@ namespace Cafe
                     switch (Form)
                     {
                         case 3:
-                            Form Квадратная = new Form("Квадратная", 500);
+                            Cake Квадратная = new Cake("Квадратная", 500);
                             MenuOrder.MainMenu(Квадратная.Cost, Квадратная.Name);
                             break;
                         case 4:
-                            Form Круглая = new Form("Круглая", 300);
+                            Cake Круглая = new Cake("Круглая", 300);
                             MenuOrder.MainMenu(Круглая.Cost, Круглая.Name);
                             break;
                         case 5:
-                            Form Прямоугольная = new Form("Прямоугольная", 600);
+                            Cake Прямоугольная = new Cake("Прямоугольная", 600);
                             MenuOrder.MainMenu(Прямоугольная.Cost, Прямоугольная.Name);
                             break;
                     }
@@ -47,15 +47,15 @@ namespace Cafe
                     switch (Size)
                     {
                         case 3:
-                            Size Маленький = new Size("Маленький корж", 300);
+                            Cake Маленький = new Cake("Маленький корж", 300);
                             MenuOrder.MainMenu(Маленький.Cost, Маленький.Name);
                             break;
                         case 4:
-                            Size Средний = new Size("Средний корж", 500);
+                            Cake Средний = new Cake("Средний корж", 500);
                             MenuOrder.MainMenu(Средний.Cost, Средний.Name);
                             break;
                         case 5:
-                            Size Большой = new Size("Большой корж", 600);
+                            Cake Большой = new Cake("Большой корж", 600);
                             MenuOrder.MainMenu(Большой.Cost, Большой.Name);
                             break;
                     }
@@ -70,23 +70,23 @@ namespace Cafe
                     switch (Taste)
                     {
                         case 3:
-                            Taste Клубничный = new Taste("Клубничный корж", 100);
+                            Cake Клубничный = new Cake("Клубничный корж", 100);
                             MenuOrder.MainMenu(Клубничный.Cost, Клубничный.Name);
                             break;
                         case 4:
-                            Size Малиновый = new Size("Малиновый корж", 100);
+                            Cake Малиновый = new Cake("Малиновый корж", 100);
                             MenuOrder.MainMenu(Малиновый.Cost, Малиновый.Name);
                             break;
                         case 5:
-                            Size Банановый = new Size("Банановый корж", 100);
+                            Cake Банановый = new Cake("Банановый корж", 100);
                             MenuOrder.MainMenu(Банановый.Cost, Банановый.Name);
                             break;
                         case 6:
-                            Size Яблочный = new Size("Яблочный корж", 100);
+                            Cake Яблочный = new Cake("Яблочный корж", 100);
                             MenuOrder.MainMenu(Яблочный.Cost, Яблочный.Name);
                             break;
                         case 7:
-                            Size Шоколадный = new Size("Шоколадный корж", 100);
+                            Cake Шоколадный = new Cake("Шоколадный корж", 100);
                             MenuOrder.MainMenu(Шоколадный.Cost, Шоколадный.Name);
                             break;
                     }
@@ -101,19 +101,19 @@ namespace Cafe
                     switch (Glaze)
                     {
                         case 3:
-                            Glaze ШМСАИИ = new Glaze("Шоколадная глазурь с арахисом и изюмом", 247);
+                            Cake ШМСАИИ = new Cake("Шоколадная глазурь с арахисом и изюмом", 247);
                             MenuOrder.MainMenu(ШМСАИИ.Cost, ШМСАИИ.Name);
                             break;
                         case 4:
-                            Glaze Апельсиновая = new Glaze("Апельсиновая глазурь", 146);
+                            Cake Апельсиновая = new Cake("Апельсиновая глазурь", 146);
                             MenuOrder.MainMenu(Апельсиновая.Cost, Апельсиновая.Name);
                             break;
                         case 5:
-                            Glaze Ромом = new Glaze("Глазурь с ромомь", 300);
+                            Cake Ромом = new Cake("Глазурь с ромомь", 300);
                             MenuOrder.MainMenu(Ромом.Cost, Ромом.Name);
                             break;
                         case 6:
-                            Glaze Шоколадная = new Glaze("Глазурь зеркальная шоколадная", 245);
+                            Cake Шоколадная = new Cake("Глазурь зеркальная шоколадная", 245);
                             MenuOrder.MainMenu(Шоколадная.Cost, Шоколадная.Name);
                             break;
                     }
@@ -128,19 +128,19 @@ namespace Cafe
                     switch (Topping)
                     {
                         case 3:
-                            Topping Карамель = new Topping("Солёная карамель", 50);
+                            Cake Карамель = new Cake("Солёная карамель", 50);
                             MenuOrder.MainMenu(Карамель.Cost, Карамель.Name);
                             break;
                         case 4:
-                            Topping БаблГам = new Topping("Бабл гам", 50);
+                            Cake БаблГам = new Cake("Бабл гам", 50);
                             MenuOrder.MainMenu(БаблГам.Cost, БаблГам.Name);
                             break;
                         case 5:
-                            Topping Ромом = new Topping("Лесые ягоды", 50);
+                            Cake Ромом = new Cake("Лесые ягоды", 50);
                             MenuOrder.MainMenu(Ромом.Cost, Ромом.Name);
                             break;
                         case 6:
-                            Topping Халва = new Topping("Топпинг со вкусом халвы", 50);
+                            Cake Халва = new Cake("Топпинг со вкусом халвы", 50);
                             MenuOrder.MainMenu(Халва.Cost, Халва.Name);
                             break;
                     }
