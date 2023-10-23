@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static private void Main(string[] args)
         {
             MenuOrder.MainMenu();
         }
